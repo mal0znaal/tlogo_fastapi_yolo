@@ -61,7 +61,7 @@ async def detect_logo(file: UploadFile = File(...)):
 •	Создать пустую папку на ПК  
 •	Убедиться, что установлен Docker / установить  
 •   Склонировать репозиторий:  
-    git clone https://github.com/<your_name>/Fastapi_YOLO.git  
+    git clone https://github.com/DoggerHou/Fastapi_YOLO.git  
     cd Fastapi_YOLO  
 •   Собрать и запустить контейнер:  
     docker compose up --build -d  
