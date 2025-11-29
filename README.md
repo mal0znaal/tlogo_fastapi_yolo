@@ -159,7 +159,7 @@ PROMPTS_GDINO = (
 **Recall = 0.7083**
 **F1-score = 0.7978**
 
-## 3. FastApi app и сборка Docker##
+## 3. FastApi app и сборка Docker
 Почти не успел додумать этот пункт, от себя добавил только эндпоинт **/health** для GET запроса. Сборка и запуск осуществляется через docker-compose up.
 
 
